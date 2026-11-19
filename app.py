@@ -1,5 +1,6 @@
 def hello_world():
-    return "Hello, World! - Versi 1 (Stabil)"
+    # Perubahan yang merusak format output standar
+    return "Sistem Rusak - Versi 2 (Gagal)"
 
 if __name__ == "__main__":
     print(hello_world())
